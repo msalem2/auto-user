@@ -1,0 +1,8 @@
+python-keystoneclient==3.6
+python-neutronclient==3.1.0
+python-novaclient=2.35.0
+python-cinderclient
+PyYAML>=3.11
+pika==0.10.0
+retry==0.9.2
+

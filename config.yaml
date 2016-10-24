@@ -1,0 +1,90 @@
+---
+  accounts:
+    - name: "EE"
+      description: "Account for Neutrino PDT Escalation Engineering"
+      members:
+        - name: "Patrick Butler Monterde"
+          username: "pbutler"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Nebu Mathews"
+          username: "nmathews"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Rabih Majzoub"
+          username: "rmajzoub"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Yassir Laraki"
+          username: "ylaraki"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Todd Robins"
+          username: "trobins"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Olga Plyasunova"
+          username: "oplyasunova"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Joey Sun"
+          username: "jsun"
+          roles:
+            - "openstack_admin"
+            - "admin"
+    - name: "CSE"
+      description: "Account for Neutrino PDT CSE"
+      members:
+        - name: "Javier Soriano"
+          username: "jsoriano"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Jesus Gracia Moreno"
+          username: "jgracia"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Diego Protta Casati"
+          username: "dprotta"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Kartik Vandra"
+          username: "kvandra"
+          roles:
+            - "openstack_admin"
+            - "admin"
+    - name: "CAT"
+      description: "Account for Neutrino PDT Customer Advisory"
+      projects:
+        - name: "nMigration"
+          description: "Project for the nMigration app"
+      members:
+        - name: "Magdy Salem"
+          username: "msalem"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Julio Colon"
+          username: "jcolon"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Lida He"
+          username: "lhe"
+          roles:
+            - "openstack_admin"
+            - "admin"
+        - name: "Adrian Moreno Martinez"
+          username: "amoreno"
+          roles:
+            - "openstack_admin"
+            - "admin"
+  default_password: "ChangeMe"
